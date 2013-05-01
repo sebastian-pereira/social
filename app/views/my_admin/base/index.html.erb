@@ -1,0 +1,17 @@
+<%= link_to 'Настройки модели', :controller => :model, :model => @short_model_name.classify.downcase, :action => :index %>
+<table>
+	<tr>
+		<th>№</th>
+		<% colzer(@short_model_name.classify.constantize.new).each do |f| %>
+			<th><%= f.label %></th>
+		<% end %>
+		<th></th>
+		
+		
+	</tr>
+	
+</table>
+
+<ul class="index_list">
+	<%= @html.html_safe %>
+</ul>

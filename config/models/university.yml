@@ -1,0 +1,5 @@
+relations:
+  faculties:
+    label: 'Faculties'
+    type: 'has_many'
+    visible: '1'    
