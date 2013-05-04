@@ -5,7 +5,9 @@
 #   gem 'sqlite3'
 development:
   adapter: mysql2
-  database: social
+  database: social_test
+  user: root
+  password: punkrock
   pool: 5
   timeout: 5000
 
@@ -15,6 +17,8 @@ development:
 test:
   adapter: mysql2
   database: social_test
+  user: root
+  password: punkrock
   pool: 5
   timeout: 5000
 

@@ -1,6 +1,7 @@
 module MyAdmin
   module Records
-    class University < Base
+    class University
+      include Base
       
     end
   end

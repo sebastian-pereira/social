@@ -1,0 +1,5 @@
+<%#= MyFields::Link.new('Удалить', 'my_admin/base', 'model_action', {:model => 'universities', :act => :delete, :id => orm.id}).html %>
+<%# TODO: Переделать %>
+<a href="/admin_area/<%= orm.class.name.downcase.pluralize %>/delete/<%= orm.id %>">Удалить</a>
+
+

@@ -1,20 +1,26 @@
 <% if result.size > 0 %>
-	<ul>
-	<% result.each do |f| %>
-		<span class="index_list_column"><%= f.html(:single) %></span>
-	<% end %>
-	<span><%= MyFields::Link.new('Редактировать', [:my_admin, @class_simple_name.pluralize], :edit, {:id => 1}).html%></span>
+	<tr class="<%= (as_child == true) ? "relation_row_unit" : "item_row_unit" %>">
+        <% result.each do |f| %>
+            <td><%= f.html(:single) %></td>
+        <% end %>
+        <% @actions.each do |a| %>
+          <!-- TODO: Убрать костыль-->
+            <td><%= a.render(@object) %></td>
+        <% end %>
+    </tr>
 	<% if ! include_relations and relations.size > 0 %>
+        <tr class="relation_row_header">
 			<% relations.each do |rel| %>
 				<% if rel[1].size > 0 %>
-					<li><%= rel[0] %></li>
+                    <td></td>
+					<td><%= rel[0] %></td>
 					<% rel[1].each do |r| %>
-						<li><%= r.render_in_list false %></li>
+						<td><%= r.render_in_list false, true %></td>
 					<% end %>
 				<% end %>
 			<% end %>
-		<% end %>
-	</ul>
+        </tr>
+    <% end %>
 <% end %>
 
 <%#= link_to 'Добавить', '#'%>

@@ -20,12 +20,12 @@ module MyAdmin
         end
         
         def collect_attributes(data)
-          if data.instance_of? Hash
+          #if data.instance_of? Hash
             data.each_pair do |name, value|
               @attributes.push Attribute.new(name, value)
             end
             validate_model
-          end
+          #end
         end
         
         def collect

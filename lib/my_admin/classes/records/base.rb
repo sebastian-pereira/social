@@ -1,20 +1,24 @@
 module MyAdmin
   module Records
-    class Base
+    module Base
       
-      attr_reader :object, :relations
+      attr_reader :object, :relations, :class_simple_name
       
       def initialize(orm)
         
         @class_simple_name = self.class.name.split('::')[-1].downcase
+        @actions = []
         
         if orm
-          # TODO: Должен быть primary_key, а не id.
-          @object = orm#ActiveRecord::Base.const_get(self.class.name.split('::')[-1].classify).find(id)
-          @relations = init_relations
+          @object = orm
+          @relations = []#init_relations
         end
         
           
+      end
+
+      def add_action(action)
+        @actions.push action
       end
       
       
@@ -52,7 +56,7 @@ module MyAdmin
       end
       
       
-      def render_in_list(include_relations = false)
+      def render_in_list(include_relations = false, as_child = false)
         result = []
         if File.exists?("../../config/table_configs/#{@class_simple_name}.yml")
           yml = YAML.load_file("../../config/table_configs/#{@class_simple_name}.yml")
@@ -69,7 +73,8 @@ module MyAdmin
             yml_config = config[attr]
             
             field = MyFields::Label.new(@class_simple_name, attr, yml_config["label"], value, yml_config["visible"], {})
-    
+
+            # TODO: Доделать
             #if field.visible != '0'
               result.push field
             #end 

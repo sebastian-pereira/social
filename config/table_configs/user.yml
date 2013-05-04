@@ -8,14 +8,14 @@ id:
   disabled: '0'
 name:
   label: Name
-  position: '3'
+  position: '2'
   type: text
   visible: '1'
   readonly: '1'
   disabled: '0'
 surname:
   label: Surname
-  position: '2'
+  position: '3'
   type: text
   visible: '1'
   readonly: '1'
@@ -26,4 +26,11 @@ user_hash:
   type: text
   visible: '0'
   readonly: '1'
+  disabled: '0'
+email:
+  label: E-mail
+  position: '5'
+  type: text
+  visible: '1'
+  readonly: '0'
   disabled: '0'

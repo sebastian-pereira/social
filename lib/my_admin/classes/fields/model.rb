@@ -17,7 +17,7 @@ module MyAdmin
       
       def add_field(data)
         emp = false
-        data[@name].each do |p|
+        data.each do |p|
           if p.empty?
             flash[:notice] = 'Empty values'
             emp = true
@@ -27,14 +27,14 @@ module MyAdmin
         
         config = YAML.load_file("../../config/table_configs/#{@name}.yml")
         
-        config[data[@name][:sys_name]] =
+        config[data[:sys_name]] =
           {
-            'label' => data[@name][:label],
-            'position' => data[@name][:position],
-            'type' => data[@name][:type],
-            'visible' => data[@name][:visible],
-            'readonly' => data[@name][:readonly],
-            'disabled' => data[@name][:disabled]
+            'label' => data[:label],
+            'position' => data[:position],
+            'type' => data[:type],
+            'visible' => data[:visible],
+            'readonly' => data[:readonly],
+            'disabled' => data[:disabled]
           }
 
         File.open("../../config/table_configs/#{@name}.yml", 'w') do |f|
@@ -67,16 +67,18 @@ module MyAdmin
         fields
       end
       
-      def save(params)
-        @fields = compose_fields(params[:fields])
-    
-        @hs = {}
+      def save(pars)
+
+        fields = compose_fields(pars)
+
+        hs = {}
         fields.each do |f|
-          @hs.merge! f.collect
+          hs.merge! f.collect
         end
-        #File.open("../../config/table_configs/#{@name}.yml", 'w') do |f|
-          #YAML::dump(@hs, f)
-        #end
+
+        File.open("../../config/table_configs/#{@name}.yml", 'w') do |f|
+          YAML::dump(hs, f)
+        end
       end
       
       def gen_creation_fields

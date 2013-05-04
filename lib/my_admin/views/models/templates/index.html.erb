@@ -13,8 +13,8 @@
 	
 </table>
 
-<ul class="index_list">
+<table>
 	<% @objects.each_index do |index| %>
-		<li><%= @objects[index].render_in_list %></li>
+		<%= @objects[index].render_in_list %>
 	<% end %>
-</ul>
+</table>

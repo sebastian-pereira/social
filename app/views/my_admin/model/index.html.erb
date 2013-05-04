@@ -5,6 +5,8 @@
 	<%= render 'table', :field_labels => @field_labels, :fields => @fields %>
 </div>
 
+<p class="notice"><%= flash[:add_field] %></p>
+
 <%= form_tag({:controller => :model, :action => :add_field}, {:remote => false}) do %>
 	<table>
 			<% @fields_for_create.each do |f| %>

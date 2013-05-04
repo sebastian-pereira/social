@@ -1,2 +1,7 @@
 relations:
+  university:
+    label: 'University'
+    type: 'belongs_to'
+    visible: 1
+
   

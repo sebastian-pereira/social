@@ -1,6 +1,7 @@
 module MyAdmin
   module Records
-    class User < Base
+    class User
+      include Base
       
     end
   end
