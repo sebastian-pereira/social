@@ -7,24 +7,24 @@
     <file path="/database.yml" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367526970180" ignored="false" />
     <file path="$PROJECT_DIR$/../my_fields/lib/fields/classes/text.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367499193346" ignored="false" />
     <file path="/model_controller.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367524320607" ignored="false" />
-    <file path="/save.html.erb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367590856185" ignored="false" />
-    <file path="/index.html.erb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367614108758" ignored="false" />
-    <file path="/model.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367524204114" ignored="false" />
+    <file path="/save.html.erb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367673998729" ignored="false" />
+    <file path="/index.html.erb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367677291437" ignored="false" />
+    <file path="/model.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367659119360" ignored="false" />
     <file path="/user.yml" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367521536609" ignored="false" />
     <file path="/field.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367523601184" ignored="false" />
     <file path="/Dummy.txt" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367597657547" ignored="false" />
     <file path="/styles.css.sass" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367526387683" ignored="false" />
-    <file path="/base.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367646091907" ignored="false" />
+    <file path="/base.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367677804855" ignored="false" />
     <file path="/20130406230806_create_users.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367527250282" ignored="false" />
     <file path="$PROJECT_DIR$/test/dummy/log/development.log" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367528756801" ignored="false" />
     <file path="/14_create_faculties.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367527486054" ignored="false" />
     <file path="/13_create_universities.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367527604632" ignored="false" />
-    <file path="/faculty.yml" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367527777410" ignored="false" />
-    <file path="/faculty.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367614198444" ignored="false" />
-    <file path="/routes.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367604857906" ignored="false" />
-    <file path="/edit.html.erb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367612633054" ignored="false" />
+    <file path="/faculty.yml" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367677876783" ignored="false" />
+    <file path="/faculty.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367654895440" ignored="false" />
+    <file path="/routes.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367675393165" ignored="false" />
+    <file path="/edit.html.erb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367677439084" ignored="false" />
     <file path="/create.html.erb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367583255874" ignored="false" />
-    <file path="/base_controller.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367649220807" ignored="false" />
+    <file path="/base_controller.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367667930067" ignored="false" />
     <file path="/editable.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367649320484" ignored="false" />
     <file path="/university.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367610069917" ignored="false" />
     <file path="/model_action.html.erb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367531457887" ignored="false" />
@@ -34,17 +34,17 @@
     <file path="/_table.html.erb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367583288408" ignored="false" />
     <file path="$PROJECT_DIR$/../../social/app/models/material.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367585249578" ignored="false" />
     <file path="/material.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367642514812" ignored="false" />
-    <file path="/my_admin.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367643225537" ignored="false" />
+    <file path="/my_admin.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367675416709" ignored="false" />
     <file path="/editor.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367589745020" ignored="false" />
     <file path="/parser.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367589860269" ignored="false" />
     <file path="/saveparser.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367590524985" ignored="false" />
     <file path="/editparser.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367589941656" ignored="false" />
     <file path="/deletable.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367649350617" ignored="false" />
-    <file path="/edit.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367603615625" ignored="false" />
-    <file path="/delete.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367613458404" ignored="false" />
+    <file path="/edit.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367674642154" ignored="false" />
+    <file path="/delete.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367676896362" ignored="false" />
     <file path="/user.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367599550771" ignored="false" />
-    <file path="/action.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367601799868" ignored="false" />
-    <file path="/delete.html.erb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367613219444" ignored="false" />
+    <file path="/action.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367677375086" ignored="false" />
+    <file path="/delete.html.erb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367673975336" ignored="false" />
     <file path="$PROJECT_DIR$/../my_fields/lib/fields/views/html/link/template.html.erb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367604422417" ignored="false" />
     <file path="/template.html.erb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367604370697" ignored="false" />
     <file path="$PROJECT_DIR$/../my_fields/lib/my_fields.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367611723578" ignored="false" />
@@ -54,6 +54,26 @@
     <file path="/admin_user_role.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367642642691" ignored="false" />
     <file path="/class_not_defined.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367646000804" ignored="false" />
     <file path="/object_not_found.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367649098179" ignored="false" />
+    <file path="/factory.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367651115182" ignored="false" />
+    <file path="/temp.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367674910418" ignored="false" />
+    <file path="/forbidden.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367651691938" ignored="false" />
+    <file path="/config.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367659569072" ignored="false" />
+    <file path="$PROJECT_DIR$/test/dummy/config/environments/test.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367652796074" ignored="false" />
+    <file path="$PROJECT_DIR$/test/dummy/config/environments/development.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367652796074" ignored="false" />
+    <file path="$PROJECT_DIR$/test/dummy/config/environments/production.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367652796074" ignored="false" />
+    <file path="$PROJECT_DIR$/test/dummy/config/application.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367652796074" ignored="false" />
+    <file path="$PROJECT_DIR$/test/dummy/config/initializers/session_store.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367652796074" ignored="false" />
+    <file path="/my_validation.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367653300080" ignored="false" />
+    <file path="/view.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367670235151" ignored="false" />
+    <file path="/university.yml" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367678517810" ignored="false" />
+    <file path="/save.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367678331332" ignored="false" />
+    <file path="/action_decorator.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367677245462" ignored="false" />
+    <file path="/view.html.erb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367674703585" ignored="false" />
+    <file path="/back.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367674624017" ignored="false" />
+    <file path="/back.html.erb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367673963153" ignored="false" />
+    <file path="/index.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367676958128" ignored="false" />
+    <file path="/add.rb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367677966340" ignored="false" />
+    <file path="/add.html.erb" changelist="c41812e3-cb56-4bed-8754-098a528fa732" time="1367675587436" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,37 +93,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="class_not_defined.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/my_admin/exceptions/class_not_defined.rb">
+      <file leaf-file-name="edit.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/my_admin/foundations/actions/classes/edit.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0">
+            <state line="3" column="27" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my_admin.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/my_admin.rb">
+      <file leaf-file-name="action.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/my_admin/foundations/actions/classes/action.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="48" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
+            <state line="11" column="90" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="base.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/my_admin/classes/models/base.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="852" selection-end="852" vertical-scroll-proportion="0.76021314">
+            <state line="128" column="10" selection-start="4014" selection-end="4014" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/my_admin/base_controller.rb">
+      <file leaf-file-name="university.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/models/university.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="32" selection-start="518" selection-end="518" vertical-scroll-proportion="0.0">
+            <state line="5" column="6" selection-start="60" selection-end="60" vertical-scroll-proportion="0.13321492">
               <folding />
             </state>
           </provider>
@@ -119,22 +139,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/my_admin/foundations/views/_table.html.erb" />
-        <option value="$PROJECT_DIR$/lib/my_admin/foundations/views/viewable/index.html.erb" />
-        <option value="$PROJECT_DIR$/lib/my_admin/foundations/viewable.rb" />
-        <option value="$PROJECT_DIR$/lib/my_admin/classes/models/faculty.rb" />
-        <option value="$PROJECT_DIR$/app/views/my_admin/base/_table.html.erb" />
-        <option value="$PROJECT_DIR$/lib/my_admin/classes/admin_user.rb" />
-        <option value="$PROJECT_DIR$/lib/my_admin/classes/material.rb" />
-        <option value="$PROJECT_DIR$/test/dummy/db/migrate/20130406230806_create_admin_users_and_roles.rb" />
-        <option value="$PROJECT_DIR$/lib/my_admin/classes/admin_user_role.rb" />
-        <option value="$PROJECT_DIR$/lib/my_admin.rb" />
-        <option value="$PROJECT_DIR$/lib/my_admin/exceptions/class_not_defined.rb" />
-        <option value="$PROJECT_DIR$/lib/my_admin/exceptions/object_not_found.rb" />
+        <option value="$PROJECT_DIR$/lib/my_admin/foundations/actions/classes/row_action.rb" />
         <option value="$PROJECT_DIR$/app/controllers/my_admin/base_controller.rb" />
-        <option value="$PROJECT_DIR$/lib/my_admin/foundations/editable.rb" />
-        <option value="$PROJECT_DIR$/lib/my_admin/foundations/deletable.rb" />
+        <option value="$PROJECT_DIR$/lib/my_admin/foundations/actions/classes/edit.rb" />
+        <option value="$PROJECT_DIR$/lib/my_admin/foundations/actions/classes/delete.rb" />
+        <option value="$PROJECT_DIR$/lib/my_admin/foundations/actions/classes/back.rb" />
+        <option value="$PROJECT_DIR$/lib/my_admin/foundations/actions/classes/index.rb" />
+        <option value="$PROJECT_DIR$/lib/my_admin/foundations/actions/classes/action_decorator.rb" />
+        <option value="$PROJECT_DIR$/lib/my_admin/foundations/actions/views/index.html.erb" />
+        <option value="$PROJECT_DIR$/lib/my_admin/foundations/actions/classes/action.rb" />
+        <option value="$PROJECT_DIR$/lib/my_admin/foundations/actions/views/edit.html.erb" />
         <option value="$PROJECT_DIR$/lib/my_admin/classes/models/base.rb" />
+        <option value="$PROJECT_DIR$/config/models/faculty.yml" />
+        <option value="$PROJECT_DIR$/config/models/university.yml" />
+        <option value="$PROJECT_DIR$/lib/my_admin/foundations/actions/classes/add.rb" />
+        <option value="$PROJECT_DIR$/lib/my_admin/foundations/actions/classes/save.rb" />
+        <option value="$PROJECT_DIR$/config/table_configs/university.yml" />
       </list>
     </option>
   </component>
@@ -169,6 +189,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -339,50 +361,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="foundations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exceptions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="classes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -409,51 +387,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="records" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
+              <option name="myItemId" value="fields" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -493,48 +427,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="appearance" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../my_fields" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lib/my_admin/exceptions" />
-      <recent name="$PROJECT_DIR$/lib/my_admin/classes" />
-      <recent name="$PROJECT_DIR$/lib/my_admin/foundations/records" />
       <recent name="$PROJECT_DIR$/lib/my_admin/foundations/actions/classes" />
+      <recent name="$PROJECT_DIR$/lib/my_admin/foundations/actions/views/labels" />
       <recent name="$PROJECT_DIR$/lib/my_admin/foundations/actions/views" />
+      <recent name="$PROJECT_DIR$/lib/my_admin/views/models/templates" />
+      <recent name="$PROJECT_DIR$/lib/my_admin/views/records/templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/my_admin/foundations/actions/views/labels" />
       <recent name="$PROJECT_DIR$/lib/my_admin/foundations/actions/classes" />
       <recent name="$PROJECT_DIR$/lib/my_admin/foundations/views/addable" />
     </key>
@@ -817,13 +732,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1368" height="718" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277027" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293919" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30015197" sideWeight="0.6722973" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30547112" sideWeight="0.6706081" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293919" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -832,7 +748,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293919" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -899,114 +814,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/my_admin/classes/models/faculty.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/my_admin/base_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="41" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
+        <state line="19" column="46" selection-start="492" selection-end="492" vertical-scroll-proportion="0.528757">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/dummy/db/migrate/20130406230806_create_admin_users_and_roles.rb">
+    <entry file="file://$PROJECT_DIR$/lib/my_admin/foundations/actions/views/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="37" selection-start="711" selection-end="711" vertical-scroll-proportion="0.5703422">
+        <state line="14" column="0" selection-start="298" selection-end="298" vertical-scroll-proportion="0.1929499">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/my_admin/classes/admin_user_role.rb">
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="31" selection-start="81" selection-end="81" vertical-scroll-proportion="0.027829314">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/my_admin/classes/material.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="2" selection-start="145" selection-end="145" vertical-scroll-proportion="0.055658627">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/my_admin/classes/admin_user.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="96" selection-start="142" selection-end="142" vertical-scroll-proportion="0.027829314">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/my_admin/foundations/actions/views/delete.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="95" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/my_admin/foundations/viewable.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="11" selection-start="52" selection-end="52" vertical-scroll-proportion="0.07992895">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/my_admin/classes/records/base.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/my_admin/views/records/templates/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="15" selection-start="250" selection-end="250" vertical-scroll-proportion="0.16697589">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/my_admin/exceptions/class_not_defined.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0">
+        <state line="12" column="137" selection-start="586" selection-end="625" vertical-scroll-proportion="0.19090909">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/my_admin.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="48" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/my_admin/base_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="32" selection-start="518" selection-end="518" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/my_admin/foundations/deletable.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="8" selection-start="310" selection-end="310" vertical-scroll-proportion="0.3617811">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/my_admin/foundations/addable.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/my_admin/foundations/editable.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="16" selection-start="662" selection-end="834" vertical-scroll-proportion="0.28063944">
+        <state line="26" column="52" selection-start="925" selection-end="925" vertical-scroll-proportion="0.42628774">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/my_admin/classes/models/base.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="852" selection-end="852" vertical-scroll-proportion="0.76021314">
+        <state line="128" column="10" selection-start="4014" selection-end="4014" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/models/faculty.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="8" selection-start="62" selection-end="62" vertical-scroll-proportion="0.13321492">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/my_admin/foundations/actions/views/edit.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="27" selection-start="321" selection-end="321" vertical-scroll-proportion="0.22263451">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/my_admin/foundations/actions/classes/action.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="90" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/my_admin/foundations/actions/views/labels/save.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/my_admin/foundations/actions/views/save.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/table_configs/university.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="11" selection-start="340" selection-end="340" vertical-scroll-proportion="0.6660746">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/field_values/field_types.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/my_admin/classes/fields/model.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.1454545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/my_admin/foundations/actions/classes/save.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="10" selection-start="771" selection-end="771" vertical-scroll-proportion="0.58614564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/my_admin/foundations/actions/classes/add.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="72" selection-start="262" selection-end="262" vertical-scroll-proportion="0.23978686">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/models/university.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="60" selection-end="60" vertical-scroll-proportion="0.13321492">
           <folding />
         </state>
       </provider>

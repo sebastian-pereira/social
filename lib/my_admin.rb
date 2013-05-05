@@ -10,11 +10,21 @@ module MyAdmin
 
 
   require 'my_admin/exceptions/class_not_defined'
+  require 'my_admin/exceptions/action_unavailable'
+  require 'my_admin/exceptions/my_validation'
+  require 'my_admin/classes/validators/configs/base'
+  require 'my_admin/classes/validators/configs/model'
+  require 'my_admin/classes/configs/config'
 
 
   require 'my_admin/foundations/actions/classes/action'
+  require 'my_admin/foundations/actions/classes/action_decorator'
   require 'my_admin/foundations/actions/classes/edit'
+  require 'my_admin/foundations/actions/classes/index'
   require 'my_admin/foundations/actions/classes/delete'
+  require 'my_admin/foundations/actions/classes/save'
+  require 'my_admin/foundations/actions/classes/back'
+  require 'my_admin/foundations/actions/classes/add'
   require 'my_admin/foundations/addable'
   require 'my_admin/foundations/viewable'
   require 'my_admin/foundations/editable'
@@ -41,7 +51,7 @@ module MyAdmin
   
   mattr_accessor :app_root
 
-  # Yield self on setup for nice config blocks
+  # Yield self on setup for nice configs blocks
   def self.setup
     yield self
   end

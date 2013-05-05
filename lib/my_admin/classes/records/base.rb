@@ -3,12 +3,13 @@ module MyAdmin
     module Base
       
       attr_reader :object, :relations, :class_simple_name
+
+      attr_accessor :viewable, :editable, :deletable
       
       def initialize(orm)
         
         @class_simple_name = self.class.name.split('::')[-1].downcase
-        @actions = []
-        
+
         if orm
           @object = orm
           @relations = []#init_relations
@@ -17,12 +18,17 @@ module MyAdmin
           
       end
 
-      def add_action(action)
-        @actions.push action
-      end
-      
-      
-      
+
+
+
+
+
+
+
+
+
+
+
       # TODO: Переделать. Это должен быть отднльный класс
       def render
         result = []
@@ -56,7 +62,7 @@ module MyAdmin
       end
       
       
-      def render_in_list(include_relations = false, as_child = false)
+      def view_object(include_relations = false, as_child = false)
         result = []
         if File.exists?("../../config/table_configs/#{@class_simple_name}.yml")
           yml = YAML.load_file("../../config/table_configs/#{@class_simple_name}.yml")
@@ -76,15 +82,16 @@ module MyAdmin
 
             # TODO: Доделать
             #if field.visible != '0'
-              result.push field
+              result.push field.html(:single)
             #end 
           end
         else
           
         end
-        
-        erb = ERB.new(File.read(File.dirname(__FILE__) + "/../../views/records/templates/index.html.erb"))
-        erb.result(binding).html_safe
+
+        result
+        #erb = ERB.new(File.read(File.dirname(__FILE__) + "/../../views/records/templates/index.html.erb"))
+        #erb.result(binding).html_safe
       end
       
       private

@@ -6,7 +6,7 @@ class MyAdmin::BaseController < ApplicationController
   attr_reader :model
   
   def index
-
+    @html = MyAdmin::ModelConfigs::Config.new('faculty').actions
   end
 
   def model_action
@@ -17,16 +17,17 @@ class MyAdmin::BaseController < ApplicationController
         data[k] = v
       end
     end
-    @html = @model.send(params[:act], [data])
+    #@html = @model.send(params[:act], [data])
+    @html = @model.action_do(params[:act], [data])
 
   rescue ClassNotDefinedError => e
     @html = e.message
   rescue ActiveRecord::RecordNotFound => e
     @html = e.message
-  rescue ArgumentError => e
-    @html = 'System fail: ' + e.message
-  rescue => e
-    @html = 'Base system fail: ' + e.message
+  #rescue ArgumentError => e
+  #  @html = 'System fail: ' + e.message
+  #rescue => e
+  #  @html = 'Base system fail: ' + e.message
   end
   
   #def edit

@@ -9,13 +9,15 @@ Rails.application.routes.draw do
   end
 
   match 'admin_area', :controller => 'my_admin/base', :action => :index
-  match 'admin_area/universities', :controller => 'my_admin/base', :action => 'model_action', :model => 'universities', :act => 'index'
+  match 'admin_area/universities', :controller => 'my_admin/base', :action => 'model_action', :model => 'universities', :act => 'view'
+  match 'admin_area/universities/add', :controller => 'my_admin/base', :action => 'model_action', :model => 'universities', :act => 'add'
   match 'admin_area/universities/edit', :controller => 'my_admin/base', :action => 'model_action', :model => 'universities', :act => 'edit'
   match 'admin_area/universities/save', :controller => 'my_admin/base', :action => 'model_action', :model => 'universities', :act => 'save'
   match 'admin_area/universities/delete', :controller => 'my_admin/base', :action => 'model_action', :model => 'universities', :act => 'delete'
   match 'admin_area/universities/delete/:id', :controller => 'my_admin/base', :action => 'model_action', :model => 'universities', :act => 'delete', :id => :id
 
-  match 'admin_area/faculties', :controller => 'my_admin/base', :action => 'model_action', :model => 'faculties', :act => 'index'
+  match 'admin_area/faculties', :controller => 'my_admin/base', :action => 'model_action', :model => 'faculties', :act => 'view'
+  match 'admin_area/faculties/add', :controller => 'my_admin/base', :action => 'model_action', :model => 'faculties', :act => 'add'
   match 'admin_area/faculties/edit', :controller => 'my_admin/base', :action => 'model_action', :model => 'faculties', :act => 'edit'
   match 'admin_area/faculties/save', :controller => 'my_admin/base', :action => 'model_action', :model => 'faculties', :act => 'save'
   match 'admin_area/faculties/delete', :controller => 'my_admin/base', :action => 'model_action', :model => 'faculties', :act => 'delete'

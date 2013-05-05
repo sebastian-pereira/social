@@ -21,11 +21,16 @@
                 <td><%= f %></td>
               <% end %>
               <% @actions.each do |a| %>
-                <% if a.visible %>
+                <% if a.location == 0 %>
                   <td><%= a.render_label(obj.object) %></td>
                 <% end %>
               <% end %>
           </tr>
+      <% end %>
+      <% @actions.each do |a| %>
+          <% if a.location == 1 %>
+              <td><%= a.render_label %></td>
+          <% end %>
       <% end %>
     </table>
 <% else %>
